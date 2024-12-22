@@ -9,7 +9,12 @@ Profile Creator is a web application that allows users to create professional re
 - Responsive design for an optimal user experience.
 
 ---
+## Screen Shot
+Initial view of the application
+![image](https://github.com/user-attachments/assets/47eda745-f362-41f4-af29-1988400ed747)
 
+
+---
 ## Project Structure
 ```
 css/
